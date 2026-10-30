@@ -1,4 +1,4 @@
-# WC-Activity-Based-Learning
+# WD-Activity-Based-Learning
 # Student README
 
 ## Student Details
