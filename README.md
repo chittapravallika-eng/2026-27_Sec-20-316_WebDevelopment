@@ -3,10 +3,10 @@
 
 ## Student Details
 
-- *Name:* P. Praharsha
-- *Roll Number:* 26001236
-- *Branch:* CSM
-- *Section:* 06
+- *Name:* C.Pravallika
+- *Roll Number:* 26000316
+- *Branch:* CSE
+- *Section:* 05
 
 ## Selected Case Studies
 1.Docter Appointment
